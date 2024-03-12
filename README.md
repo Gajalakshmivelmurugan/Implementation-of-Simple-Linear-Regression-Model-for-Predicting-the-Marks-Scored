@@ -75,6 +75,7 @@ print("RMSE= ",rmse)
 ## Output:
 
 ![Screenshot 2024-03-04 174024](https://github.com/Gajalakshmivelmurugan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144871940/ef31fa59-6293-4402-90f0-6d61c7de8529)
+
 ![Screenshot 2024-03-04 174036](https://github.com/Gajalakshmivelmurugan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144871940/c2e8cfb3-e82f-4f96-99a4-7643e0fbd051)
 ![Screenshot 2024-03-04 174056](https://github.com/Gajalakshmivelmurugan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144871940/55ecc405-b10b-4ae0-a809-8537eeb11fa9)
 ![Screenshot 2024-03-04 174110](https://github.com/Gajalakshmivelmurugan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144871940/3815d668-7933-48e8-99b6-510051997135)
